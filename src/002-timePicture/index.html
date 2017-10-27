@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>一键换肤功能</title>
+    <link rel="stylesheet" href="./styles/foresttree.css" type="text/css" id="styles">
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+        }
+        .container td:nth-child(1) {
+            text-align: right;
+        }
+        .container td:nth-child(2) {
+            text-align: left;
+        }
+    </style>
+</head>
+<script>
+    window.onload = function () {
+        var styles = document.getElementById('styles');
+        var treeBranch = document.getElementById('treeBranch');
+        var snowPartner = document.getElementById('snowPartner');
+        var flowerBranch = document.getElementById('flowerBranch');
+        treeBranch.onclick = function () {
+            styles.href = './styles/foresttree.css';
+            this.style.color = '#midnightblue';
+        };
+        snowPartner.onclick = function () {
+            styles.href = './styles/snow_partner.css';
+            this.style.color = '#8B4D61';
+        };
+        flowerBranch.onclick = function () {
+            styles.href = './styles/flower_branch.css';
+            this.style.color = '#4A8B0B';
+        }
+    }
+</script>
+<body>
+    <div class="container">
+    </div>
+</body>
+</html>
