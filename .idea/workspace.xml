@@ -2,67 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="217ae369-4862-4ce9-82c8-bdf75ab0cc6e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/002-timePicture/images/0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/002-timePicture/images/1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/002-timePicture/images/2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/002-timePicture/images/3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/002-timePicture/images/4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/002-timePicture/images/5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/002-timePicture/images/6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/002-timePicture/images/7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/002-timePicture/images/8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/002-timePicture/images/9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/002-timePicture/images/bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/002-timePicture/images/five.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/002-timePicture/images/four.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/002-timePicture/images/miaov.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/002-timePicture/images/month.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/002-timePicture/images/one.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/002-timePicture/images/seven.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/002-timePicture/images/sign.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/002-timePicture/images/six.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/002-timePicture/images/three.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/002-timePicture/images/title.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/002-timePicture/images/two.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/002-timePicture/images/week.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/002-timePicture/images/year.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/004-starRating/star.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/005-淘宝商品列表/images/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/005-淘宝商品列表/images/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/005-淘宝商品列表/images/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/005-淘宝商品列表/images/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/005-淘宝商品列表/images/down.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/005-淘宝商品列表/images/ico1.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/006-tabChange/images/active_bg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/006-tabChange/images/ico.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/006-tabChange/images/line.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/006-tabChange/images/nav_bg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/006-tabChange/images/pic_bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/006-tabChange/images/skin_flower_branch.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/006-tabChange/images/skin_forest_tree.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/006-tabChange/images/skin_snow_partner.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/006-tabChange/images/tab_bg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/008-无缝轮播/images/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/008-无缝轮播/images/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/008-无缝轮播/images/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/008-无缝轮播/images/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/008-无缝轮播/images/btn.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/002-timePicture/index.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/002-timePicture/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/004-starRating/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/005-淘宝商品列表/index.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/005-淘宝商品列表/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/005-淘宝商品列表/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/006-tabChange/miaov_dome.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/006-tabChange/miaov_style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/007-简易年历/index.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/007-简易年历/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/007-简易年历/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/008-无缝轮播/index.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/008-无缝轮播/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/008-无缝轮播/index.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/002-timePicture/index.html" afterPath="$PROJECT_DIR$/src/002-timePicture/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -86,8 +26,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/002-timePicture/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="22" column="50" lean-forward="true" selection-start-line="22" selection-start-column="50" selection-end-line="22" selection-end-column="50" />
+            <state relative-caret-position="-126">
+              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -96,88 +36,70 @@
       <file leaf-file-name="index.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/002-timePicture/index.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" column="22" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="22" />
+            <state relative-caret-position="247">
+              <caret line="13" column="10" lean-forward="true" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="week.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/002-timePicture/images/week.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="year.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/002-timePicture/images/year.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="two.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/002-timePicture/images/two.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="title.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/002-timePicture/images/title.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/002-timePicture/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="529">
+            <state relative-caret-position="282">
               <caret line="43" column="2" lean-forward="false" selection-start-line="43" selection-start-column="2" selection-end-line="43" selection-end-column="2" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/007-简易年历/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="622">
-              <caret line="41" column="5" lean-forward="false" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="5" />
-              <folding />
-            </state>
+      <file leaf-file-name="six.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/002-timePicture/images/six.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/008-无缝轮播/index.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
+      <file leaf-file-name="seven.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/002-timePicture/images/seven.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/008-无缝轮播/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1181">
-              <caret line="40" column="5" lean-forward="false" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/008-无缝轮播/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="532">
-              <caret line="28" column="56" lean-forward="false" selection-start-line="28" selection-start-column="56" selection-end-line="28" selection-end-column="56" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="miaov_dome.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="miaov_dome.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/006-tabChange/miaov_dome.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="2318">
               <caret line="122" column="19" lean-forward="false" selection-start-line="122" selection-start-column="19" selection-end-line="122" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/007-简易年历/index.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/007-简易年历/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -195,6 +117,8 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
+      <find>pos2</find>
+      <find>getTimeArray</find>
       <find>longdesc=&quot;http://www.miaov.com&quot;</find>
     </findStrings>
   </component>
@@ -219,13 +143,13 @@
         <option value="$PROJECT_DIR$/src/005-淘宝商品列表/index.html" />
         <option value="$PROJECT_DIR$/src/006-tabChange/tab.html" />
         <option value="$PROJECT_DIR$/src/002-timePicture/miaov_demo.html" />
-        <option value="$PROJECT_DIR$/src/002-timePicture/index.html" />
-        <option value="$PROJECT_DIR$/src/002-timePicture/index.js" />
         <option value="$PROJECT_DIR$/src/007-简易年历/miaov_demo.html" />
         <option value="$PROJECT_DIR$/src/007-简易年历/index.html" />
         <option value="$PROJECT_DIR$/src/007-简易年历/index.js" />
         <option value="$PROJECT_DIR$/src/008-无缝轮播/miaov_demo.html" />
         <option value="$PROJECT_DIR$/src/008-无缝轮播/index.html" />
+        <option value="$PROJECT_DIR$/src/002-timePicture/index.html" />
+        <option value="$PROJECT_DIR$/src/002-timePicture/index.js" />
       </list>
     </option>
   </component>
@@ -280,6 +204,46 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaScript-SpecialEffects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaScript-SpecialEffects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="002-timePicture" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaScript-SpecialEffects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaScript-SpecialEffects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="002-timePicture" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -381,7 +345,7 @@
       <workItem from="1509071540738" duration="978000" />
       <workItem from="1509081309316" duration="1096000" />
       <workItem from="1509114467511" duration="11915000" />
-      <workItem from="1509169425416" duration="7059000" />
+      <workItem from="1509169425416" duration="9360000" />
     </task>
     <task id="LOCAL-00001" summary="feat: 'add change skin modules'">
       <created>1509126691086</created>
@@ -432,11 +396,18 @@
       <option name="project" value="LOCAL" />
       <updated>1509190903123</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="feat: 'add change paly list unfolding contraction'">
+      <created>1509195460641</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1509195460641</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21048000" />
+    <option name="totallyTimeSpent" value="23349000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -446,18 +417,18 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3280757" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -662,35 +633,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/002-timePicture/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="22" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/002-timePicture/images/title.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/002-timePicture/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="22" column="50" lean-forward="true" selection-start-line="22" selection-start-column="50" selection-end-line="22" selection-end-column="50" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/002-timePicture/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="43" column="2" lean-forward="false" selection-start-line="43" selection-start-column="2" selection-end-line="43" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/007-简易年历/miaov_demo.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="539">
@@ -759,6 +701,60 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2318">
           <caret line="122" column="19" lean-forward="false" selection-start-line="122" selection-start-column="19" selection-end-line="122" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/002-timePicture/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="10" lean-forward="true" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/002-timePicture/images/week.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/002-timePicture/images/year.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/002-timePicture/images/two.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/002-timePicture/images/title.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/002-timePicture/images/six.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/002-timePicture/images/seven.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/002-timePicture/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-126">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/002-timePicture/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="43" column="2" lean-forward="false" selection-start-line="43" selection-start-column="2" selection-end-line="43" selection-end-column="2" />
           <folding />
         </state>
       </provider>
