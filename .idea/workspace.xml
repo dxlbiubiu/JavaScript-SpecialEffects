@@ -2,11 +2,67 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="217ae369-4862-4ce9-82c8-bdf75ab0cc6e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/003- playlistUnfoldingContraction/images/down.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/003- playlistUnfoldingContraction/images/down_list_h2_bg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/003- playlistUnfoldingContraction/images/up.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/003- playlistUnfoldingContraction/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/002-timePicture/images/0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/002-timePicture/images/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/002-timePicture/images/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/002-timePicture/images/3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/002-timePicture/images/4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/002-timePicture/images/5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/002-timePicture/images/6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/002-timePicture/images/7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/002-timePicture/images/8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/002-timePicture/images/9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/002-timePicture/images/bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/002-timePicture/images/five.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/002-timePicture/images/four.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/002-timePicture/images/miaov.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/002-timePicture/images/month.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/002-timePicture/images/one.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/002-timePicture/images/seven.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/002-timePicture/images/sign.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/002-timePicture/images/six.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/002-timePicture/images/three.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/002-timePicture/images/title.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/002-timePicture/images/two.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/002-timePicture/images/week.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/002-timePicture/images/year.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/004-starRating/star.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/005-淘宝商品列表/images/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/005-淘宝商品列表/images/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/005-淘宝商品列表/images/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/005-淘宝商品列表/images/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/005-淘宝商品列表/images/down.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/005-淘宝商品列表/images/ico1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/006-tabChange/images/active_bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/006-tabChange/images/ico.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/006-tabChange/images/line.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/006-tabChange/images/nav_bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/006-tabChange/images/pic_bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/006-tabChange/images/skin_flower_branch.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/006-tabChange/images/skin_forest_tree.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/006-tabChange/images/skin_snow_partner.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/006-tabChange/images/tab_bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/008-无缝轮播/images/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/008-无缝轮播/images/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/008-无缝轮播/images/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/008-无缝轮播/images/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/008-无缝轮播/images/btn.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/002-timePicture/index.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/002-timePicture/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/004-starRating/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/005-淘宝商品列表/index.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/005-淘宝商品列表/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/005-淘宝商品列表/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/006-tabChange/miaov_dome.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/006-tabChange/miaov_style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/007-简易年历/index.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/007-简易年历/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/007-简易年历/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/008-无缝轮播/index.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/008-无缝轮播/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/008-无缝轮播/index.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/002-timePicture/index.html" afterPath="$PROJECT_DIR$/src/002-timePicture/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -27,11 +83,101 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/003- playlistUnfoldingContraction/index.html">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/002-timePicture/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="278">
-              <caret line="41" column="9" lean-forward="true" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
+            <state relative-caret-position="152">
+              <caret line="22" column="50" lean-forward="true" selection-start-line="22" selection-start-column="50" selection-end-line="22" selection-end-column="50" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/002-timePicture/index.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="16" column="22" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/002-timePicture/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="529">
+              <caret line="43" column="2" lean-forward="false" selection-start-line="43" selection-start-column="2" selection-end-line="43" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/007-简易年历/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="622">
+              <caret line="41" column="5" lean-forward="false" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/008-无缝轮播/index.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/008-无缝轮播/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1181">
+              <caret line="40" column="5" lean-forward="false" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/008-无缝轮播/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="532">
+              <caret line="28" column="56" lean-forward="false" selection-start-line="28" selection-start-column="56" selection-end-line="28" selection-end-column="56" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="miaov_dome.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/006-tabChange/miaov_dome.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2318">
+              <caret line="122" column="19" lean-forward="false" selection-start-line="122" selection-start-column="19" selection-end-line="122" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/007-简易年历/index.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/007-简易年历/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -47,6 +193,11 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>longdesc=&quot;http://www.miaov.com&quot;</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -59,11 +210,22 @@
         <option value="$PROJECT_DIR$/src/001-changeSkin/styles/snow_partner.css" />
         <option value="$PROJECT_DIR$/src/001-changeSkin/styles/flower_branch.css" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/src/002-timePicture/index.html" />
         <option value="$PROJECT_DIR$/src/003- playlistUnfoldingContraction/miaov_style.css" />
         <option value="$PROJECT_DIR$/src/003- playlistUnfoldingContraction/miaov.js" />
         <option value="$PROJECT_DIR$/src/003- playlistUnfoldingContraction/miaov_demo.html" />
         <option value="$PROJECT_DIR$/src/003- playlistUnfoldingContraction/index.html" />
+        <option value="$PROJECT_DIR$/src/004-starRating/miaov_demo.html" />
+        <option value="$PROJECT_DIR$/src/004-starRating/index.html" />
+        <option value="$PROJECT_DIR$/src/005-淘宝商品列表/index.html" />
+        <option value="$PROJECT_DIR$/src/006-tabChange/tab.html" />
+        <option value="$PROJECT_DIR$/src/002-timePicture/miaov_demo.html" />
+        <option value="$PROJECT_DIR$/src/002-timePicture/index.html" />
+        <option value="$PROJECT_DIR$/src/002-timePicture/index.js" />
+        <option value="$PROJECT_DIR$/src/007-简易年历/miaov_demo.html" />
+        <option value="$PROJECT_DIR$/src/007-简易年历/index.html" />
+        <option value="$PROJECT_DIR$/src/007-简易年历/index.js" />
+        <option value="$PROJECT_DIR$/src/008-无缝轮播/miaov_demo.html" />
+        <option value="$PROJECT_DIR$/src/008-无缝轮播/index.html" />
       </list>
     </option>
   </component>
@@ -138,10 +300,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\WebStormProject\JavaScript-SpecialEffects\src\003- playlistUnfoldingContraction" />
-      <recent name="F:\WebStormProject\JavaScript-SpecialEffects\src" />
-      <recent name="F:\WebStormProject\JavaScript-SpecialEffects\src\001-changeSkin\styles" />
-      <recent name="F:\WebStormProject\JavaScript-SpecialEffects\src\001-changeSkin\images" />
+      <recent name="F:\WebStormProject\JavaScript-SpecialEffects\src\006-tabChange" />
+      <recent name="F:\WebStormProject\JavaScript-SpecialEffects\src\008-无缝轮播" />
+      <recent name="F:\WebStormProject\JavaScript-SpecialEffects\src\007-简易年历" />
+      <recent name="F:\WebStormProject\JavaScript-SpecialEffects\src\002-timePicture" />
+      <recent name="F:\WebStormProject\JavaScript-SpecialEffects\src\006-tabChange\images" />
     </key>
   </component>
   <component name="RunManager">
@@ -218,7 +381,7 @@
       <workItem from="1509071540738" duration="978000" />
       <workItem from="1509081309316" duration="1096000" />
       <workItem from="1509114467511" duration="11915000" />
-      <workItem from="1509169425416" duration="2487000" />
+      <workItem from="1509169425416" duration="7059000" />
     </task>
     <task id="LOCAL-00001" summary="feat: 'add change skin modules'">
       <created>1509126691086</created>
@@ -262,11 +425,18 @@
       <option name="project" value="LOCAL" />
       <updated>1509127805733</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="feat: 'add change paly list unfolding contraction'">
+      <created>1509190903123</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1509190903123</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16476000" />
+    <option name="totallyTimeSpent" value="21048000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -298,7 +468,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat: 'add change skin modules'" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: 'add change skin modules'" />
+    <MESSAGE value="feat: 'add change paly list unfolding contraction'" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 'add change paly list unfolding contraction'" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -352,13 +523,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
           <caret line="3" column="96" lean-forward="false" selection-start-line="3" selection-start-column="96" selection-end-line="3" selection-end-column="96" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/002-timePicture/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="25" column="14" lean-forward="false" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -425,6 +589,176 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="278">
           <caret line="41" column="9" lean-forward="true" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/004-starRating/star.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/004-starRating/miaov_demo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="19" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/004-starRating/miaov_style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="9" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="120" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/004-starRating/miaov.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="17" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="25" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/004-starRating/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-221">
+          <caret line="8" column="44" lean-forward="false" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/005-淘宝商品列表/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-406">
+          <caret line="12" column="4" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/005-淘宝商品列表/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2910">
+          <caret line="33" column="41" lean-forward="true" selection-start-line="33" selection-start-column="41" selection-end-line="33" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/006-tabChange/tab.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1494">
+          <caret line="95" column="25" lean-forward="false" selection-start-line="95" selection-start-column="25" selection-end-line="95" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/002-timePicture/miaov_demo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="539">
+          <caret line="43" column="0" lean-forward="false" selection-start-line="3" selection-start-column="69" selection-end-line="43" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/002-timePicture/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="22" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/002-timePicture/images/title.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/002-timePicture/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="22" column="50" lean-forward="true" selection-start-line="22" selection-start-column="50" selection-end-line="22" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/002-timePicture/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="43" column="2" lean-forward="false" selection-start-line="43" selection-start-column="2" selection-end-line="43" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/007-简易年历/miaov_demo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="539">
+          <caret line="38" column="0" lean-forward="false" selection-start-line="3" selection-start-column="69" selection-end-line="38" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/007-简易年历/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/007-简易年历/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/007-简易年历/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="622">
+          <caret line="41" column="5" lean-forward="false" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/008-无缝轮播/miaov_demo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="539">
+          <caret line="39" column="7" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="39" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/008-无缝轮播/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/008-无缝轮播/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1181">
+          <caret line="40" column="5" lean-forward="false" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/008-无缝轮播/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="28" column="56" lean-forward="false" selection-start-line="28" selection-start-column="56" selection-end-line="28" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/006-tabChange/miaov_dome.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2318">
+          <caret line="122" column="19" lean-forward="false" selection-start-line="122" selection-start-column="19" selection-end-line="122" selection-end-column="19" />
           <folding />
         </state>
       </provider>
