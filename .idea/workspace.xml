@@ -1,9 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="217ae369-4862-4ce9-82c8-bdf75ab0cc6e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/009-星星评分/star.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/009-星星评分/index.html" />
+    <list default="true" id="217ae369-4862-4ce9-82c8-bdf75ab0cc6e" name="Default" comment="feat: 'add change paly list unfolding contraction'">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tops_93_Flusk/assets/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tops_93_Flusk/assets/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tops_93_Flusk/assets/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tops_93_Flusk/assets/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tops_93_Flusk/assets/fonts/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tops_93_Flusk/assets/images/arrow_down.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tops_93_Flusk/assets/images/bike-320x240.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tops_93_Flusk/assets/images/bike_water1-1000x600.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tops_93_Flusk/assets/images/blue_mac2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tops_93_Flusk/assets/images/flat_icons_thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tops_93_Flusk/assets/images/header-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tops_93_Flusk/assets/images/mac_glasses1-1000x600.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tops_93_Flusk/assets/images/min_icons_thumb1-320x240.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tops_93_Flusk/assets/images/newsletter-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tops_93_Flusk/assets/images/rain_1-320x240.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tops_93_Flusk/assets/images/road-1000x600.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tops_93_Flusk/assets/images/six_1-320x240.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tops_93_Flusk/assets/images/testimonial_11-190x190.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tops_93_Flusk/assets/images/testimonial_22-190x190.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tops_93_Flusk/assets/images/testimonial_31-190x190.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tops_93_Flusk/assets/images/traffic.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tops_93_Flusk/assets/images/wood-320x240.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zwtp_3_jh/zwtp_3_jh/img/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zwtp_3_jh/zwtp_3_jh/img/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zwtp_3_jh/zwtp_3_jh/img/3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zwtp_3_jh/zwtp_3_jh/img/4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zwtp_3_jh/zwtp_3_jh/img/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zwtp_3_jh/zwtp_3_jh/img/allside_e8abd12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zwtp_3_jh/zwtp_3_jh/img/arrow_aad9b25.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zwtp_3_jh/zwtp_3_jh/img/bg-0_c25cb21.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zwtp_3_jh/zwtp_3_jh/img/bg-1_e29bcfa.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zwtp_3_jh/zwtp_3_jh/img/bg-2_867b7b4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zwtp_3_jh/zwtp_3_jh/img/bg-3-head_b8a3f7f.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zwtp_3_jh/zwtp_3_jh/img/bg-3_153a003.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zwtp_3_jh/zwtp_3_jh/img/brain_36a156f.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zwtp_3_jh/zwtp_3_jh/img/bubble_3b0f897.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zwtp_3_jh/zwtp_3_jh/img/cloud_1_1d4924b.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zwtp_3_jh/zwtp_3_jh/img/cloud_2_a186193.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zwtp_3_jh/zwtp_3_jh/img/cloud_3_5ee0340.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zwtp_3_jh/zwtp_3_jh/img/flight_ade8ee2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zwtp_3_jh/zwtp_3_jh/img/h_lingxian_221f2d8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zwtp_3_jh/zwtp_3_jh/img/h_quanmian_8f813d2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zwtp_3_jh/zwtp_3_jh/img/h_zhuanye_256a94d.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zwtp_3_jh/zwtp_3_jh/img/header_z_94c6de7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zwtp_3_jh/zwtp_3_jh/img/hill_1_0d79217.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zwtp_3_jh/zwtp_3_jh/img/hill_2_540422f.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zwtp_3_jh/zwtp_3_jh/img/hill_3_ace39fb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zwtp_3_jh/zwtp_3_jh/img/launch_deea86c.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zwtp_3_jh/zwtp_3_jh/img/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zwtp_3_jh/zwtp_3_jh/img/readme.ini" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zwtp_3_jh/zwtp_3_jh/img/ship_1ad6734.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zwtp_3_jh/zwtp_3_jh/img/square_c776382.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zwtp_3_jh/zwtp_3_jh/img/stat_8934528.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tops_93_Flusk/assets/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tops_93_Flusk/assets/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tops_93_Flusk/assets/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tops_93_Flusk/assets/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tops_93_Flusk/assets/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tops_93_Flusk/assets/js/html5.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tops_93_Flusk/assets/js/jquery-2.1.3.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tops_93_Flusk/assets/js/jquery-migrate-1.2.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tops_93_Flusk/assets/js/jquery.actual.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tops_93_Flusk/assets/js/jquery.scrollTo.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tops_93_Flusk/assets/js/respond.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tops_93_Flusk/assets/js/script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tops_93_Flusk/assets/js/selectivizr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tops_93_Flusk/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zwtp_3_jh/zwtp_3_jh/css/animation.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zwtp_3_jh/zwtp_3_jh/css/index.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zwtp_3_jh/zwtp_3_jh/css/response.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zwtp_3_jh/zwtp_3_jh/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zwtp_3_jh/zwtp_3_jh/js/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zwtp_3_jh/zwtp_3_jh/js/jquery-1.12.1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zwtp_3_jh/zwtp_3_jh/js/touch.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -26,67 +98,95 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/002-timePicture/index.html">
+        <entry file="file://$PROJECT_DIR$/zwtp_3_jh/zwtp_3_jh/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state relative-caret-position="105">
+              <caret line="108" column="18" lean-forward="false" selection-start-line="108" selection-start-column="18" selection-end-line="108" selection-end-column="18" />
+              <folding>
+                <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="flower_branch.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/001-changeSkin/styles/flower_branch.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="4" selection-end-column="31" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="year.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/002-timePicture/images/year.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
+      <file leaf-file-name="bootstrap.min.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tops_93_Flusk/assets/css/bootstrap.min.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="two.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/002-timePicture/images/two.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
+      <file leaf-file-name="font-awesome.min.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tops_93_Flusk/assets/css/font-awesome.min.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="title.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/002-timePicture/images/title.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tops_93_Flusk/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="9">
+              <caret line="41" column="64" lean-forward="false" selection-start-line="41" selection-start-column="59" selection-end-line="41" selection-end-column="64" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/002-timePicture/index.js">
+        <entry file="file://$PROJECT_DIR$/zwtp_3_jh/zwtp_3_jh/js/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="36" column="25" lean-forward="false" selection-start-line="36" selection-start-column="25" selection-end-line="36" selection-end-column="25" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/009-星星评分/index.html">
+      <file leaf-file-name="jquery-1.12.1.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zwtp_3_jh/zwtp_3_jh/js/jquery-1.12.1.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-247">
-              <caret line="12" column="55" lean-forward="true" selection-start-line="12" selection-start-column="55" selection-end-line="12" selection-end-column="55" />
+            <state relative-caret-position="-1305">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="six.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/002-timePicture/images/six.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
+      <file leaf-file-name="index.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zwtp_3_jh/zwtp_3_jh/css/index.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-7067">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="seven.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/002-timePicture/images/seven.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
+      <file leaf-file-name="response.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zwtp_3_jh/zwtp_3_jh/css/response.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2655">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
@@ -105,6 +205,8 @@
       <find>pos2</find>
       <find>getTimeArray</find>
       <find>longdesc=&quot;http://www.miaov.com&quot;</find>
+      <find>fa fa</find>
+      <find>用户名</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -147,9 +249,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
+    <option name="x" value="47" />
+    <option name="y" value="24" />
+    <option name="width" value="1319" />
     <option name="height" value="744" />
   </component>
   <component name="ProjectView">
@@ -167,6 +269,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -192,29 +296,9 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="009-星星评分" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaScript-SpecialEffects" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaScript-SpecialEffects" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -228,15 +312,15 @@
     <property name="list.type.of.created.stylesheet" value="Less" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\WebStormProject\JavaScript-SpecialEffects\src" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="F:\WebStormProject\JavaScript-SpecialEffects\src\009-星星评分" />
       <recent name="F:\WebStormProject\JavaScript-SpecialEffects\src\006-tabChange" />
       <recent name="F:\WebStormProject\JavaScript-SpecialEffects\src\008-无缝轮播" />
       <recent name="F:\WebStormProject\JavaScript-SpecialEffects\src\007-简易年历" />
-      <recent name="F:\WebStormProject\JavaScript-SpecialEffects\src\002-timePicture" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\WebStormProject\JavaScript-SpecialEffects\src" />
     </key>
   </component>
   <component name="RunManager">
@@ -280,7 +364,7 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
-      <command value="run" />
+      <command value="run-script" />
       <scripts />
       <node-interpreter value="project" />
       <envs />
@@ -315,6 +399,7 @@
       <workItem from="1509114467511" duration="11915000" />
       <workItem from="1509169425416" duration="11202000" />
       <workItem from="1509546222790" duration="2555000" />
+      <workItem from="1512619092355" duration="4972000" />
     </task>
     <task id="LOCAL-00001" summary="feat: 'add change skin modules'">
       <created>1509126691086</created>
@@ -383,28 +468,28 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27746000" />
+    <option name="totallyTimeSpent" value="32718000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="47" y="24" width="1319" height="744" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20058565" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24132614" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.52153844" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3280757" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -423,117 +508,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/002-timePicture/images/title.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/002-timePicture/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/002-timePicture/images/six.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/002-timePicture/images/seven.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/006-tabChange/miaov_dome.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2318">
-          <caret line="122" column="19" lean-forward="false" selection-start-line="122" selection-start-column="19" selection-end-line="122" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/001-changeSkin/styles/flower_branch.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="14" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/001-changeSkin/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/001-changeSkin/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md" />
-    <entry file="file://$PROJECT_DIR$/src/002-timePicture/styles/snow_partner.css" />
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="96" lean-forward="false" selection-start-line="3" selection-start-column="96" selection-end-line="3" selection-end-column="96" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/001-changeSkin/styles/foresttree.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="21" lean-forward="false" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/001-changeSkin/styles/snow_partner.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="27" lean-forward="false" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/001-changeSkin/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="23" column="24" lean-forward="false" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/001-changeSkin/styles/flower_branch.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="14" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/003- playlistUnfoldingContraction/miaov_demo.html" />
-    <entry file="file://$PROJECT_DIR$/src/003- playlistUnfoldingContraction/miaov_style.css" />
-    <entry file="file://$PROJECT_DIR$/src/003- playlistUnfoldingContraction/miaov.js" />
-    <entry file="file://$PROJECT_DIR$/src/003- playlistUnfoldingContraction/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="41" column="9" lean-forward="true" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/004-starRating/star.gif">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/004-starRating/miaov_demo.html" />
     <entry file="file://$PROJECT_DIR$/src/004-starRating/miaov_style.css" />
     <entry file="file://$PROJECT_DIR$/src/004-starRating/miaov.js" />
@@ -608,7 +582,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2318">
           <caret line="122" column="19" lean-forward="false" selection-start-line="122" selection-start-column="19" selection-end-line="122" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -616,7 +589,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
           <caret line="13" column="10" lean-forward="false" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -652,7 +624,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/002-timePicture/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="135">
           <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
         </state>
@@ -660,13 +632,55 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/002-timePicture/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="36" column="25" lean-forward="false" selection-start-line="36" selection-start-column="25" selection-end-line="36" selection-end-column="25" />
+        <state relative-caret-position="540">
+          <caret line="36" column="21" lean-forward="false" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/009-星星评分/miaov.js">
+    <entry file="file://$PROJECT_DIR$/src/009-星星评分/miaov.js" />
+    <entry file="file://$PROJECT_DIR$/src/009-星星评分/miaov_style.css" />
+    <entry file="file://$PROJECT_DIR$/src/009-星星评分/miaov_demo.html" />
+    <entry file="file://$PROJECT_DIR$/src/009-星星评分/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="46" lean-forward="true" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/001-changeSkin/images/skin_flower_branch.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/001-changeSkin/images/skin_forest_tree.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/001-changeSkin/images/skin_snow_partner.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/001-changeSkin/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="48" lean-forward="false" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/001-changeSkin/styles/foresttree.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="21" lean-forward="false" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zwtp_3_jh/找网站模板就上【模板之家】cssMoban.com.url">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -674,26 +688,127 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/009-星星评分/miaov_style.css">
+    <entry file="file://$PROJECT_DIR$/zwtp_3_jh/3000套网站模板免费拥有.url">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="10" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="120" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/009-星星评分/miaov_demo.html">
+    <entry file="file://$PROJECT_DIR$/zwtp_3_jh/zwtp_3_jh/js/touch.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="21" selection-end-column="7" />
+        <state relative-caret-position="235">
+          <caret line="1" column="2135" lean-forward="true" selection-start-line="1" selection-start-column="2135" selection-end-line="1" selection-end-column="2135" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zwtp_3_jh/zwtp_3_jh/css/animation.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/009-星星评分/index.html">
+    <entry file="file://$PROJECT_DIR$/zwtp_3_jh/zwtp_3_jh/css/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-247">
-          <caret line="12" column="55" lean-forward="true" selection-start-line="12" selection-start-column="55" selection-end-line="12" selection-end-column="55" />
+        <state relative-caret-position="-7067">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zwtp_3_jh/zwtp_3_jh/css/response.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2655">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zwtp_3_jh/zwtp_3_jh/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zwtp_3_jh/zwtp_3_jh/js/jquery-1.12.1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1305">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zwtp_3_jh/说明.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="2" lean-forward="true" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tops_93_Flusk/assets/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tops_93_Flusk/assets/css/font-awesome.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tops_93_Flusk/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9">
+          <caret line="41" column="64" lean-forward="false" selection-start-line="41" selection-start-column="59" selection-end-line="41" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zwtp_3_jh/zwtp_3_jh/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="108" column="18" lean-forward="false" selection-start-line="108" selection-start-column="18" selection-end-line="108" selection-end-column="18" />
+          <folding>
+            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zwtp_3_jh/zwtp_3_jh/img/1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/001-changeSkin/styles/flower_branch.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="4" selection-end-column="31" />
           <folding />
         </state>
       </provider>
